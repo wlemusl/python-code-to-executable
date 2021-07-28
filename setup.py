@@ -16,6 +16,3 @@ cx_Freeze.setup(
                         "bin_path_includes": bin_inc}},
     executables = executables
     )
-
-
-
